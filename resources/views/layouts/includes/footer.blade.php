@@ -61,7 +61,7 @@
                 <div class="container-fluid">
                    <div class="copy-right">
                       <span class="copy-right-seprater"></span>
-                      <p>2021 . All Rights Reserved Developed By Company Name.</p>
+                      <p>2022 . All Rights Reserved Developed By Company Name.</p>
                    </div>
                 </div>
              </div>
